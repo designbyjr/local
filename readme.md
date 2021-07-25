@@ -55,7 +55,7 @@ Or run locally:
 
     php composer.phar install
 
-Add the keyfile.json into the project directory.
+`Add the keyfile.json into the project directory.`
 
 Now open the .env file and configure the database to a new database schema.
 Updating the following below.
